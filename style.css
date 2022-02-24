@@ -13,3 +13,19 @@ h1 {
       ul {
         line-height: 40px;
       }
+      .intro {
+        font-style: italic;
+      } 
+      .author {
+        color: red;
+      }
+      .author {
+        color: red;
+        font-size: 12px;
+      }
+      .author {
+        color: red;
+      }
+      p.author {
+        font-size: 12px;
+      }
